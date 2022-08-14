@@ -182,9 +182,12 @@ margin-left: 0.5vw;
     border-top-right-radius: 1rem;
     justify-content:center;
 }
+.content-block-title>h1{
+    font-size: 3vh;
+}
 .content-block>h2{
     color:black;
-    font-size:1.3rem;
+    font-size:2.1vh;
     margin: 1rem;
 }
 .content-block>iframe{
@@ -207,6 +210,10 @@ margin-left: 0.5vw;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
+.inner-title>h1{
+    font-size:3vh;
+}
+
 .inner-title>img{
     margin-left: 2rem;
     margin-right: 2rem;
@@ -227,7 +234,7 @@ margin-left: 0.5vw;
     color:black;
     margin-bottom: 1rem;
     margin-left: 1.2rem;
-    font-size:1.5rem;
+    font-size:2.7vh;
 }
 .input{
     width:100%;
@@ -248,7 +255,7 @@ margin-left: 0.5vw;
     resize: none;
     padding-top: 0.7rem;
     text-indent: 0.7rem;
-    font-size: 1.3rem;
+    font-size: 2vh;
 }
 .form-group{
     display:flex;
@@ -265,7 +272,7 @@ margin-left: 0.5vw;
     border:none;
     box-shadow: 1px 1px 10px black;
     outline: none;
-    font-size:1rem;
+    font-size:1.5vh;
     padding-left: 0.5vw;
     padding-right: 1vw;
     border-radius: 0.4rem;
@@ -318,6 +325,9 @@ margin-left: 0.5vw;
     color:black;
     margin-top:-7vh;
 }
+.credit>h1{
+    font-size:3vh;
+}
 .review{
     display:flex;
     flex-direction: column;
@@ -330,7 +340,7 @@ margin-left: 0.5vw;
     border:none;
     box-shadow: 1px 1px 10px black;
     outline: none;
-    font-size:1rem;
+    font-size:1.7vh;
     padding-left: 0.5vw;
     padding-right: 1vw;
     border-radius: 0.4rem;
